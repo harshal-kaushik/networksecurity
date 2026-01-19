@@ -1,0 +1,16 @@
+[2026-01-19 17:22:55,631] 15 root - INFO - Data Ingestion Started
+[2026-01-19 17:22:59,412] 76 root - INFO - Performed train_test_split.
+[2026-01-19 17:22:59,644] 17 root - INFO - Data ingestion completed
+[2026-01-19 17:22:59,648] 25 root - INFO - Data Validation Started
+[2026-01-19 17:22:59,757] 23 root - INFO - The number of columns in the dataframe is: 3
+[2026-01-19 17:22:59,757] 24 root - INFO - The number of columns in the dataframe is: 50
+[2026-01-19 17:22:59,757] 23 root - INFO - The number of columns in the dataframe is: 3
+[2026-01-19 17:22:59,757] 24 root - INFO - The number of columns in the dataframe is: 50
+[2026-01-19 17:23:00,097] 27 root - INFO - Data Validation completed
+[2026-01-19 17:23:00,097] 33 root - INFO - Data Transformation Started
+[2026-01-19 17:23:00,098] 46 root - INFO - Initializing Data Transformation Artifact
+[2026-01-19 17:23:00,098] 48 root - INFO - Starting Data Transformation
+[2026-01-19 17:23:00,146] 36 root - INFO - Emtered the get_trandsformer object of transofrmation classs
+[2026-01-19 17:23:00,161] 38 root - INFO - Entered the save object method of MainUtils Class
+[2026-01-19 17:23:00,165] 42 root - INFO - exited the save object method of MainUtils Class
+[2026-01-19 17:23:00,167] 35 root - INFO - Data Transformation completed

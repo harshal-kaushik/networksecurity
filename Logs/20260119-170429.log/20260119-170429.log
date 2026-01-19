@@ -1,0 +1,13 @@
+[2026-01-19 17:04:31,229] 15 root - INFO - Data Ingestion Started
+[2026-01-19 17:04:36,733] 76 root - INFO - Performed train_test_split.
+[2026-01-19 17:04:37,034] 17 root - INFO - Data ingestion completed
+[2026-01-19 17:04:37,041] 25 root - INFO - Data Validation Started
+[2026-01-19 17:04:37,163] 23 root - INFO - The number of columns in the dataframe is: 3
+[2026-01-19 17:04:37,163] 24 root - INFO - The number of columns in the dataframe is: 50
+[2026-01-19 17:04:37,163] 23 root - INFO - The number of columns in the dataframe is: 3
+[2026-01-19 17:04:37,163] 24 root - INFO - The number of columns in the dataframe is: 50
+[2026-01-19 17:04:37,556] 27 root - INFO - Data Validation completed
+[2026-01-19 17:04:37,556] 33 root - INFO - Data Transformation Started
+[2026-01-19 17:04:37,556] 46 root - INFO - Initializing Data Transformation Artifact
+[2026-01-19 17:04:37,556] 48 root - INFO - Starting Data Transformation
+[2026-01-19 17:04:37,595] 36 root - INFO - Emtered the get_trandsformer object of transofrmation classs

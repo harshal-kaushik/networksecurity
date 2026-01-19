@@ -1,0 +1,4 @@
+[2026-01-18 10:55:22,095] 14 root - INFO - Data Ingestion Started
+[2026-01-18 10:55:25,527] 76 root - INFO - Performed train_test_split.
+[2026-01-18 10:55:25,783] 16 root - INFO - Data ingestion completed
+[2026-01-18 10:55:25,788] 21 root - INFO - Data Validation Started

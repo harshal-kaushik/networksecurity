@@ -1,0 +1,9 @@
+[2026-01-19 16:26:25,235] 15 root - INFO - Data Ingestion Started
+[2026-01-19 16:26:29,408] 76 root - INFO - Performed train_test_split.
+[2026-01-19 16:26:29,638] 17 root - INFO - Data ingestion completed
+[2026-01-19 16:26:29,668] 25 root - INFO - Data Validation Started
+[2026-01-19 16:26:29,791] 23 root - INFO - The number of columns in the dataframe is: 3
+[2026-01-19 16:26:29,792] 24 root - INFO - The number of columns in the dataframe is: 50
+[2026-01-19 16:26:29,792] 23 root - INFO - The number of columns in the dataframe is: 3
+[2026-01-19 16:26:29,792] 24 root - INFO - The number of columns in the dataframe is: 50
+[2026-01-19 16:26:30,169] 27 root - INFO - Data Validation completed
