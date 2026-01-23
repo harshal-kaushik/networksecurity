@@ -8,6 +8,11 @@ PIPLINE_NAME : str = 'Phising Data End-to-End Ml ops project'
 ARTIFACT_DIR : str = 'Artifacts'
 FILE_NAME : str='Phishing_Legitimate_full.csv'
 
+
+SAVED_MODEL_DIR= os.path.join("saved_models")
+model_file_name = 'model.pkl'
+
+
 train_file_name : str='train.csv'
 test_file_name : str='test.csv'
 
@@ -44,3 +49,16 @@ DATA_TRANSFORMATION_IMPUTER_PARAMS : dict = {
     "n_neighbors":3,
     "weights":'uniform',
 }
+
+Data_Transformation_Train_File_Path:str='train.npy'
+Data_Transformation_Test_File_Path:str='test.npy'
+
+"""
+Model Trainer realted constant
+"""
+model_trainer_dir_name:str="model_trainer"
+model_trainer_trained_model_dir:str="trained_model"
+model_trainer_trained_model_name:str="model.pkl"
+model_trainer_expected_score :float=0.6
+model_trainer_over_fitting_under_fitting_threshold : float=0.05
+
